@@ -10,7 +10,7 @@
 
 🎓 Business Student at **Aswan University** (Expected Graduation: 2026/2027)  
 📊 Passionate about **Data Analysis & Visualization**  
-📈 Turning raw data into **actionable insights**  
+📈 Turning raw data into **Dynamic insights**  
 
 ---
 
