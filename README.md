@@ -24,9 +24,13 @@
 # Tools I use organized
 
 class AboutMe:
-    Skills = {
+    Skills = { 
         "Data Analysis": ["Excel", "Power BI", "SQL", "Python (Basics)"],
         "Visualization": ["Power BI Dashboards", "Excel Charts"],
         "Other": ["Canva", "Lightroom", "MS Office"]
-    }
+   };
+}
+```
 
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning *DAX* and develop my skills in *Power BI*.
+-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about ** Movies, Games or anything**. 
