@@ -33,4 +33,4 @@ class AboutMe:
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning *DAX* and develop my skills in *Power BI*.
--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about ** Movies, Games or anything**. 
+-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about ** Movies, Games, GYM or anything**. 
